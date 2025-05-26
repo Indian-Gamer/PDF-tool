@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Upgrade to premium! iLovePDF</title> 
+  <meta name="description" content="Upgrade to premium account of iLovePDF and get more features!"> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"> 
+  <meta name="author" content="ilovepdf.com"> 
+  <meta name="keywords" content="Merge PDF, split PDF, combine PDF, extract PDF, compress PDF, convert PDF, Word to PDF, Excel to PDF, Powerpoint to PDF, PDF to JPG, JPG to PDF"> 
+  <link rel="canonical" href="https://www.ilovepdf.com/user/premium"> 
+  <meta name="apple-itunes-app" content="app-id=1207332399"> 
+  <meta name="google-play-app" content="app-id=com.ilovepdf.www"> 
+  <link rel="apple-touch-icon" href="/img/app-icon.png"> 
+  <meta name="google-site-verification" content="IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo"> 
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicons-pdf/favicon-32x32.png"> 
+  <meta property="og:site_name" content="iLovePDF - Online tools for PDF"> 
+  <meta property="og:title" content="Upgrade to premium! iLovePDF"> 
+  <meta property="og:description" content="Upgrade to premium account of iLovePDF and get more features!"> 
+  <meta property="og:image" content="https://www.ilovepdf.com/img/ilovepdf/social/en-US/ilovepdf.png"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:url" content="https://www.ilovepdf.com/user/premium"> 
+  <meta property="og:app_id" content="127502793959418"> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="twitter:site" content="@ilovepdf_com"> 
+  <meta name="twitter:creator" content="@ilovepdf_com"> 
+  <meta name="twitter:title" content="Upgrade to premium! iLovePDF"> 
+  <meta name="twitter:description" content="Upgrade to premium account of iLovePDF and get more features!"> 
+  <meta name="twitter:image:src" content="https://www.ilovepdf.com/img/ilovepdf/social/en-US/ilovepdf.png"> 
+  <link rel="preload" href="/font/Graphik-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous"> 
+  <link rel="preload" href="/font/Graphik-Semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous"> 
+  <link rel="preload" href="/font/Graphik-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous"> 
+  <link rel="preload" href="/font/Graphik-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous"> 
+  <meta name="csrf-param" content="_csrf-ilovepdf"> 
+  <meta name="csrf-token" content="65mSGOr5hv4oitbZpv2Wmt746IqgaKHM-f0XCrOG_gq_3aVyv4_lk1-6uozimrv1ureA3tUA166fy2dSgOvObA=="> 
+  <script>var ilx = {'c': 'user', 'a': 'premium'};</script> 
+  <script>
+    var isgdpr=false;
+    var cmp_ck=0;
+    var release='19b357b';
+    (function (i,l,o,v,e,g,u,a) {
+        i['ib']=i['ib']||{'set':function(){(i['ib'].q=i['ib'].q||[]).push(arguments)}};
+        i['iLE']=e;i[e]=i[e]||function(){(i[e].q=i[e].q||[]).push(arguments)};i[e].l=1*new Date();u=l.createElement(o);
+        a=l.getElementsByTagName(o)[0];u.async=1;u.src=v;a.parentNode.insertBefore(u,a);i[e+'u']=g;    })(window, document, 'script', '/js/ilove.min.js?a=1.3', 'ev');
+        ev('set', 'cmp_ck', cmp_ck);
+        ev('set', 'release', release);
+            ev('sendOnce', 'pageview');
+    </script> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-44KQ8HETWT"></script> 
+  <script>
+    var gck=undefined;
+    var c_cg="granted",c_cd="denied";
+    var gcas=gcaa=gcap=gcad=c_cg;isgdpr&&(gcas=c_cd,gcaa=c_cd,gcap=c_cd,gcad=c_cd,1==gck?(gcas=c_cg,gcaa=c_cg,gcap=c_cg,gcad=c_cg):2==gck?(gcas=c_cd,gcaa=c_cg,gcap=c_cg,gcad=c_cg):3==gck&&(gcas=c_cd,gcaa=c_cd,gcap=c_cd,gcad=c_cd));
+    window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {'analytics_storage': gcas, 'ad_storage': gcaa, 'ad_personalization': gcap, 'ad_user_data': gcad});gtag('js', new Date());
+    var config = {};    gtag('config', 'G-44KQ8HETWT', config);
+</script>
+  <script>
+(function(){
+    window.__browserSupports__ = [];
+    try{ 
+        var grid_supported = typeof document.createElement('div').style.grid === 'string';
+        grid_supported ? window.__browserSupports__.push('grid') : window.__browserSupports__.push('not:grid');
+    }catch(e){}
+
+    var interval = null;
+    var fn = function(){
+        document.body.setAttribute("data-browser-supports", window.__browserSupports__.join(" "));
+        clearInterval(interval);
+        interval = null;
+    }
+
+    interval = setInterval(function(){
+        if(document.body) fn();
+    }, 5);
+})();
+</script>
+  <link href="/dist/css/premium.19b357b.css" rel="stylesheet"> 
+ </head> 
+ <body class="clean user-premium  lang-en-US "> 
+  <div class="main"> 
+   <div class="auth"> 
+    <div class="auth__form"> 
+     <div class="auth__box"> <a class="brand" href="/" title="iLovePDF"> <img src="/img/ilovepdf.svg" alt="iLovePDF"> </a> 
+      <div class="inline-context" id="paymentContent"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="auth__info"> 
+     <div class="auth__box auth__box--signup-txt"> 
+      <h1 class="title1 orange">Upgrade to Premium</h1> 
+      <ul class="listcheck white"> 
+       <li class="listcheck__item listcheck__item--ok toggle list__dropdown"> Full access to iLovePDF tools </li> 
+       <div class="toggle__content"> 
+        <ul class="listcheck"> 
+         <li class="listcheck__item listcheck__item--ok"> Merge PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Split PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Compress PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Office to PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> WORD to PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> POWERPOINT to PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> EXCEL to PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> PDF to WORD </li> 
+         <li class="listcheck__item listcheck__item--ok"> PDF to WORD&nbsp;<b>(OCR)</b> </li> 
+         <li class="listcheck__item listcheck__item--ok"> PDF to POWERPOINT </li> 
+         <li class="listcheck__item listcheck__item--ok"> PDF to EXCEL </li> 
+         <li class="listcheck__item listcheck__item--ok"> PDF to EXCEL&nbsp;<b>(OCR)</b> </li> 
+         <li class="listcheck__item listcheck__item--ok"> OCR PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> PDF to JPG </li> 
+         <li class="listcheck__item listcheck__item--ok"> Image to PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Add page numbers </li> 
+         <li class="listcheck__item listcheck__item--ok"> Add watermark </li> 
+         <li class="listcheck__item listcheck__item--ok"> Rotate PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Unlock PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Protect PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Remove PDF pages </li> 
+         <li class="listcheck__item listcheck__item--ok"> Reorder PDF pages </li> 
+         <li class="listcheck__item listcheck__item--ok"> Organize PDF pages </li> 
+         <li class="listcheck__item listcheck__item--ok"> PDF to PDF/A </li> 
+         <li class="listcheck__item listcheck__item--ok"> Repair PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Web to PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Edit PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Sign PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Scan to PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Redact PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> Compare PDF </li> 
+         <li class="listcheck__item listcheck__item--ok"> PDF Filler </li> 
+         <li class="listcheck__item listcheck__item--ok"> Crop PDF </li> 
+        </ul> 
+       </div> 
+       <li class="listcheck__item listcheck__item--ok">Unlimited document processing</li> 
+       <li class="listcheck__item listcheck__item--ok">Work on Web, <span class="new-premium__mobile-tooltip">Mobile and <b class="new-premium__desktop-tooltip">Desktop</b></span></li> 
+       <li class="listcheck__item listcheck__item--ok">Convert scanned PDF to Word with <b>OCR</b>, sign with <b>digital signatures</b>, convert to <b>PDF/A</b></li> 
+       <li class="listcheck__item listcheck__item--ok">No Ads</li> 
+       <li class="listcheck__item listcheck__item--ok">Customer support</li> 
+      </ul> 
+     </div> 
+     <script>
+    var toogle = document.querySelector('.toggle');
+    toogle.addEventListener('click', function(){
+        var toggleContent = document.querySelector('.toggle__content');
+        if (toggleContent.style['display'] !== 'block') {  //better to check that it is not the value you have
+            toggleContent.style['display'] = 'block';
+        } else {
+            toggleContent.style['display'] = '';
+        }
+    })
+</script> 
+    </div> 
+   </div> 
+   <script>
+            var premiumConfig = {
+            premiumUrl: 'https://www.ilovepdf.com/user/premium',
+            subscriptionUsers: 1,
+            prices: {"month":"<span class=\"pricing__price__numbers\">500<\/span><span class=\"pricing__price__code\">INR<\/span>","year":"<span class=\"pricing__price__numbers\">2.400<\/span><span class=\"pricing__price__code\">INR<\/span>","year_monthly":"<span class=\"pricing__price__numbers\">200<\/span><span class=\"pricing__price__code\">INR<\/span>"},
+        };
+    </script> 
+  </div> 
+  <script>
+        var siteData = {
+        csrfParam: '_csrf-ilovepdf',
+        csrfToken: '65mSGOr5hv4oitbZpv2Wmt746IqgaKHM-f0XCrOG_gq_3aVyv4_lk1-6uozimrv1ureA3tUA166fy2dSgOvObA=='
+    };
+        var lang = 'en-US';
+    var brand = 'iLovePDF';
+    var brand_ref = 'ilovepdf';
+            var nds = {
+        'ck': 0,
+        'content': '<p>We hope you like it and find it easier to use.<br>If you run into any issues, please <a href=\"/contact\">let us know</a>.<br>We can fix any problem if we know about it.</p>',
+        'title': '<span style="color:#1D9D58">Welcome to the newly designed iLovePDF</span>'
+    };
+    </script> 
+  <script src="/dist/js/premium.19b357b.js" async></script>  
+ </body>
+</html>

@@ -1,0 +1,805 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>iLovePDF features for manage PDF files with advanced PDF tools</title>
+  <meta name="description"
+    content="The features of iLovePDF’s online tools make managing PDFs easy, fast, high-quality and fully secure. ">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="author" content="ilovepdf.com">
+  <meta name="keywords"
+    content="Merge PDF, split PDF, combine PDF, extract PDF, compress PDF, convert PDF, Word to PDF, Excel to PDF, Powerpoint to PDF, PDF to JPG, JPG to PDF">
+  <link rel="canonical" href="https://www.ilovepdf.com/features">
+  <meta name="apple-itunes-app" content="app-id=1207332399">
+  <meta name="google-play-app" content="app-id=com.ilovepdf.www">
+  <link rel="apple-touch-icon" href="/img/app-icon.png">
+  <meta name="google-site-verification" content="IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicons-pdf/favicon-32x32.png">
+  <meta property="og:site_name" content="iLovePDF - Online tools for PDF">
+  <meta property="og:title" content="iLovePDF features for manage PDF files with advanced PDF tools">
+  <meta property="og:description"
+    content="The features of iLovePDF’s online tools make managing PDFs easy, fast, high-quality and fully secure. ">
+  <meta property="og:image" content="https://www.ilovepdf.com/img/ilovepdf/social/en-US/ilovepdf.png">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.ilovepdf.com/features">
+  <meta property="og:app_id" content="127502793959418">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@ilovepdf_com">
+  <meta name="twitter:creator" content="@ilovepdf_com">
+  <meta name="twitter:title" content="iLovePDF features for manage PDF files with advanced PDF tools">
+  <meta name="twitter:description"
+    content="The features of iLovePDF’s online tools make managing PDFs easy, fast, high-quality and fully secure. ">
+  <meta name="twitter:image:src" content="https://www.ilovepdf.com/img/ilovepdf/social/en-US/ilovepdf.png">
+  <link rel="preload" href="/font/Graphik-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/font/Graphik-Semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/font/Graphik-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/font/Graphik-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <meta name="csrf-param" content="_csrf-ilovepdf">
+  <meta name="csrf-token"
+    content="q8aJZ2qn3hGOb0pG2t1MqjrjQNzSDrWuxxKQGdE6HXD_gr4NP9G9fPlfJhOeumHFXqwoiKdmw8yhJOBB4lctFg==">
+  <script>var ilx = { 'c': 'site', 'a': 'features' };</script>
+  <script>
+    var isgdpr = false;
+    var cmp_ck = 0;
+    var release = '19b357b';
+    (function (i, l, o, v, e, g, u, a) {
+      i['ib'] = i['ib'] || { 'set': function () { (i['ib'].q = i['ib'].q || []).push(arguments) } };
+      i['iLE'] = e; i[e] = i[e] || function () { (i[e].q = i[e].q || []).push(arguments) }; i[e].l = 1 * new Date(); u = l.createElement(o);
+      a = l.getElementsByTagName(o)[0]; u.async = 1; u.src = v; a.parentNode.insertBefore(u, a); i[e + 'u'] = g;
+    })(window, document, 'script', '/js/ilove.min.js?a=1.3', 'ev');
+    ev('set', 'cmp_ck', cmp_ck);
+    ev('set', 'release', release);
+    ev('sendOnce', 'pageview');
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-44KQ8HETWT"></script>
+  <script>
+    var gck = undefined;
+    var c_cg = "granted", c_cd = "denied";
+    var gcas = gcaa = gcap = gcad = c_cg; isgdpr && (gcas = c_cd, gcaa = c_cd, gcap = c_cd, gcad = c_cd, 1 == gck ? (gcas = c_cg, gcaa = c_cg, gcap = c_cg, gcad = c_cg) : 2 == gck ? (gcas = c_cd, gcaa = c_cg, gcap = c_cg, gcad = c_cg) : 3 == gck && (gcas = c_cd, gcaa = c_cd, gcap = c_cd, gcad = c_cd));
+    window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); }
+    gtag('consent', 'default', { 'analytics_storage': gcas, 'ad_storage': gcaa, 'ad_personalization': gcap, 'ad_user_data': gcad }); gtag('js', new Date());
+    var config = {}; gtag('config', 'G-44KQ8HETWT', config);
+  </script>
+  <script>
+    (function () {
+      window.__browserSupports__ = [];
+      try {
+        var grid_supported = typeof document.createElement('div').style.grid === 'string';
+        grid_supported ? window.__browserSupports__.push('grid') : window.__browserSupports__.push('not:grid');
+      } catch (e) { }
+
+      var interval = null;
+      var fn = function () {
+        document.body.setAttribute("data-browser-supports", window.__browserSupports__.join(" "));
+        clearInterval(interval);
+        interval = null;
+      }
+
+      interval = setInterval(function () {
+        if (document.body) fn();
+      }, 5);
+    })();
+  </script>
+  <link href="/dist/css/web.19b357b.css" rel="stylesheet">
+  <link href="/dist/css/pages.19b357b.css" rel="stylesheet">
+</head>
+
+<body class="lang-en-US   ">
+  <header class="header">
+    <nav> <a class="brand" href="/" title="iLovePDF"> <img src="/img/ilovepdf.svg" alt="iLovePDF"> </a>
+      <div class="menu"> <span class="menu--sm"><i class="ico ico--hamburger"></i></span> <span class="menu--md">All PDF
+          tools <i class="ico ico--down"></i></span>
+        <ul>
+          <li><a href="/merge_pdf">Merge PDF</a></li>
+          <li><a href="/split_pdf">Split PDF</a></li>
+          <li><a href="/compress_pdf">Compress PDF</a></li>
+          <li class="nav-has-dropdown"> <span>Convert PDF<i class="ico ico--down"></i> </span>
+            <div class="nav-dropdown">
+              <ul>
+                <li>
+                  <ul>
+                    <li>
+                      <div class="nav__title">
+                        Convert to PDF
+                      </div>
+                    </li>
+                    <li><a href="/jpg_to_pdf"><i class="ico ico--jpgpdf"></i>JPG to PDF</a></li>
+                    <li><a href="/word_to_pdf"><i class="ico ico--wordpdf"></i>WORD to PDF</a></li>
+                    <li><a href="/powerpoint_to_pdf"><i class="ico ico--powerpointpdf"></i>POWERPOINT to PDF</a></li>
+                    <li><a href="/excel_to_pdf"><i class="ico ico--excelpdf"></i>EXCEL to PDF</a></li>
+                    <li><a href="/html-to-pdf"><i class="ico ico--htmlpdf"></i> HTML to PDF</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <ul>
+                    <li>
+                      <div class="nav__title">
+                        Convert from PDF
+                      </div>
+                    </li>
+                    <li><a href="/pdf_to_jpg"><i class="ico ico--pdfjpg"></i> PDF to JPG</a></li>
+                    <li><a href="/pdf_to_word"><i class="ico ico--pdfword"></i> PDF to WORD</a></li>
+                    <li><a href="/pdf_to_powerpoint"><i class="ico ico--pdfpowerpoint"></i> PDF to POWERPOINT</a></li>
+                    <li><a href="/pdf_to_excel"><i class="ico ico--pdfexcel"></i> PDF to EXCEL</a></li>
+                    <li><a href="/convert-pdf-to-pdfa"><i class="ico ico--pdfa"></i> PDF to PDF/A</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+        <ul class="menu__main">
+          <li class="nav-has-dropdown nav-has-dropdown--full"> <span class="hide--sm">All PDF tools<i
+                class="ico ico--down"></i> </span>
+            <div class="nav-dropdown nav-dropdown--full">
+              <ul>
+                <li>
+                  <ul>
+                    <li>
+                      <div class="nav__title">
+                        Organize PDF
+                      </div>
+                    </li>
+                    <li><a href="/merge_pdf"><i class="ico ico--merge"></i> Merge PDF</a></li>
+                    <li><a href="/split_pdf"><i class="ico ico--split"></i> Split PDF</a></li>
+                    <li><a href="/remove-pages"><i class="ico ico--remove"></i> Remove pages</a></li>
+                    <li><a href="/split_pdf#split,extract"><i class="ico ico--extract"></i> Extract pages</a></li>
+                    <li><a href="/organize-pdf"><i class="ico ico--organize"></i> Organize PDF</a></li>
+                    <li><a href="/scan-pdf"><i class="ico ico--scan"></i> Scan to PDF</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <ul>
+                    <li>
+                      <div class="nav__title">
+                        Optimize PDF
+                      </div>
+                    </li>
+                    <li><a href="/compress_pdf"><i class="ico ico--compress"></i> Compress PDF</a></li>
+                    <li><a href="/repair-pdf"><i class="ico ico--repair"></i> Repair PDF</a></li>
+                    <li><a href="/ocr-pdf"><i class="ico ico--pdfocr"></i> OCR PDF</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <ul>
+                    <li>
+                      <div class="nav__title">
+                        Convert to PDF
+                      </div>
+                    </li>
+                    <li><a href="/jpg_to_pdf"><i class="ico ico--jpgpdf"></i> JPG to PDF</a></li>
+                    <li><a href="/word_to_pdf"><i class="ico ico--wordpdf"></i>WORD to PDF</a></li>
+                    <li><a href="/powerpoint_to_pdf"><i class="ico ico--powerpointpdf"></i> POWERPOINT to PDF</a></li>
+                    <li><a href="/excel_to_pdf"><i class="ico ico--excelpdf"></i> EXCEL to PDF</a></li>
+                    <li><a href="/html-to-pdf"><i class="ico ico--htmlpdf"></i> HTML to PDF</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <ul>
+                    <li>
+                      <div class="nav__title">
+                        Convert from PDF
+                      </div>
+                    </li>
+                    <li><a href="/pdf_to_jpg"><i class="ico ico--pdfjpg"></i> PDF to JPG</a></li>
+                    <li><a href="/pdf_to_word"><i class="ico ico--pdfword"></i>PDF to WORD</a></li>
+                    <li><a href="/pdf_to_powerpoint"><i class="ico ico--pdfpowerpoint"></i> PDF to POWERPOINT</a></li>
+                    <li><a href="/pdf_to_excel"><i class="ico ico--pdfexcel"></i> PDF to EXCEL</a></li>
+                    <li><a href="/convert-pdf-to-pdfa"><i class="ico ico--pdfa"></i> PDF to PDF/A</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <ul>
+                    <li>
+                      <div class="nav__title">
+                        Edit PDF
+                      </div>
+                    </li>
+                    <li><a href="/rotate_pdf"><i class="ico ico--rotate"></i>Rotate PDF</a></li>
+                    <li><a href="/add_pdf_page_number"><i class="ico ico--pagenumber"></i> Add page numbers</a></li>
+                    <li><a href="/pdf_add_watermark"><i class="ico ico--watermark"></i> Add watermark</a></li>
+                    <li><a href="/crop-pdf"><i class="ico ico--pdfcrop"></i>Crop PDF</a></li>
+                    <li><a href="/edit-pdf"><i class="ico ico--editpdf"></i>Edit PDF</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <ul>
+                    <li>
+                      <div class="nav__title">
+                        PDF security
+                      </div>
+                    </li>
+                    <li><a href="/unlock_pdf"><i class="ico ico--unlock"></i> Unlock PDF</a></li>
+                    <li><a href="/protect-pdf"><i class="ico ico--protect"></i>Protect PDF</a></li>
+                    <li><a href="/sign-pdf"><i class="ico ico--sign"></i>Sign PDF</a></li>
+                    <li><a href="/redact-pdf"><i class="ico ico--redact"></i> Redact PDF</a></li>
+                    <li><a href="/compare-pdf"><i class="ico ico--pdfcompare"></i> Compare PDF</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="nav-actions"> <a data-rel="user-action" href="/login" class="link--secondary hide--sm">Login</a> <a
+          data-rel="user-action" href="/register" class="btn btn--sm hide--sm">Sign up</a>
+        <ul>
+          <li class="nav-has-dropdown"> <span><i class="ico ico--more"></i></span>
+            <div class="nav-dropdown nav-dropdown--left nav-dropdown--company">
+              <ul class="menu-comp">
+                <li>
+                  <div class="menu-comp__products">
+                    <ul class="nav__group">
+                      <li class="nav__title">Other products</li>
+                      <li class="navbar__item navbar__item--md"> <a href="https://www.iloveimg.com" title="iLoveIMG">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--iloveimg"></i>
+                          </div>
+                          <div class="navbar__item__content">
+                            <div class="navbar__item__title">
+                              iLoveIMG
+                            </div>
+                            <div class="navbar__item__description">
+                              Effortless image editing
+                            </div>
+                          </div>
+                          <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i>
+                          </div>
+                        </a></li>
+                      <li class="navbar__item navbar__item--md"> <a href="https://www.ilovesign.com" title="iLoveSign">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--ilovesign"></i>
+                          </div>
+                          <div class="navbar__item__content">
+                            <div class="navbar__item__title">
+                              iLoveSign
+                            </div>
+                            <div class="navbar__item__description">
+                              e-Signing made simple
+                            </div>
+                          </div>
+                          <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i>
+                          </div>
+                        </a></li>
+                      <li class="navbar__item navbar__item--md"> <a href="https://www.iloveapi.com" title="iLoveAPI">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--iloveapi"></i>
+                          </div>
+                          <div class="navbar__item__content">
+                            <div class="navbar__item__title">
+                              iLoveAPI
+                            </div>
+                            <div class="navbar__item__description">
+                              Document automation for developers
+                            </div>
+                          </div>
+                          <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i>
+                          </div>
+                        </a></li>
+                      <li class="navbar__item navbar__item--sm navbar__item--sub"> <a
+                          href="https://www.iloveapi.com/integrations" title="Integrations">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--integrations"></i>
+                          </div>
+                          <div class="navbar__item__content">
+                            <div class="navbar__item__title">
+                              Integrations
+                            </div>
+                            <div class="navbar__item__description">
+                              Zapier, Make, Wordpress...
+                            </div>
+                          </div>
+                          <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i>
+                          </div>
+                        </a></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <div class="menu-comp__business">
+                    <ul class="nav__group">
+                      <li class="nav__title">Solutions</li>
+                      <li class="navbar__item navbar__item--lg"> <a href="/business" title="Business">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--business"></i>
+                          </div>
+                          <div class="navbar__item__content">
+                            <div class="navbar__item__title">
+                              Business
+                            </div>
+                            <div class="navbar__item__description">
+                              Streamlined PDF editing and workflows for business teams
+                            </div>
+                          </div>
+                          <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i>
+                          </div>
+                        </a></li>
+                    </ul>
+                    <ul class="nav__group">
+                      <li class="nav__title">Applications</li>
+                      <li class="navbar__item navbar__item--md"> <a href="/desktop" title="Desktop App">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--desktop"></i>
+                          </div>
+                          <div class="navbar__item__content">
+                            <div class="navbar__item__title">
+                              Desktop App
+                            </div>
+                            <div class="navbar__item__description">
+                              Available for Mac and Windows
+                            </div>
+                          </div>
+                          <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i>
+                          </div>
+                        </a></li>
+                      <li class="navbar__item navbar__item--md"> <a href="/mobile" title="Mobile App">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--mobile"></i>
+                          </div>
+                          <div class="navbar__item__content">
+                            <div class="navbar__item__title">
+                              Mobile App
+                            </div>
+                            <div class="navbar__item__description">
+                              Available for iOS and Android
+                            </div>
+                          </div>
+                          <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i>
+                          </div>
+                        </a></li>
+                    </ul>
+                  </div>
+                </li>
+                <li>
+                  <div class="menu-comp__general">
+                    <ul>
+                      <li class="navbar__item navbar__item--xs"> <a href="/pricing" title="Pricing">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--pricing"></i>
+                          </div>
+                          <div class="navbar__item__title">
+                            Pricing
+                          </div>
+                        </a></li>
+                      <li class="navbar__item navbar__item--xs"> <a href="/help/security" title="Security">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--security"></i>
+                          </div>
+                          <div class="navbar__item__title">
+                            Security
+                          </div>
+                        </a></li>
+                      <li class="navbar__item navbar__item--xs navbar__item--active"> <a href="/features"
+                          title="Features">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--features"></i>
+                          </div>
+                          <div class="navbar__item__title">
+                            Features
+                          </div>
+                        </a></li>
+                      <li class="navbar__item navbar__item--xs"> <a href="/help/about" title="About us">
+                          <div class="navbar__item__icon">
+                            <i class="ico ico--about"></i>
+                          </div>
+                          <div class="navbar__item__title">
+                            About us
+                          </div>
+                        </a></li>
+                      <li class="divider divider--break"></li>
+                      <li class="nav-has-dropdown">
+                        <div class="navbar__item navbar__item--xs">
+                          <div>
+                            <div class="navbar__item__icon">
+                              <i class="ico ico--chevron-l"></i>
+                            </div>
+                            <div class="navbar__item__title">
+                              Help
+                            </div>
+                          </div>
+                        </div>
+                        <ul class="nav-dropdown">
+                          <li class="navbar__item navbar__item--xs"> <a href="/help/faq" title="FAQ">
+                              <div class="navbar__item__icon">
+                                <i class="ico ico--faq"></i>
+                              </div>
+                              <div class="navbar__item__title">
+                                FAQ
+                              </div>
+                            </a></li>
+                          <li class="navbar__item navbar__item--xs"> <a href="/help/documentation" title="Tools">
+                              <div class="navbar__item__icon">
+                                <i class="ico ico--documentation"></i>
+                              </div>
+                              <div class="navbar__item__title">
+                                Tools
+                              </div>
+                            </a></li>
+                          <li class="navbar__item navbar__item--xs"> <a href="/help/legal" title="Legal &amp; Privacy">
+                              <div class="navbar__item__icon">
+                                <i class="ico ico--legal"></i>
+                              </div>
+                              <div class="navbar__item__title">
+                                Legal &amp; Privacy
+                              </div>
+                            </a></li>
+                          <li class="navbar__item navbar__item--xs"> <a href="/contact" title="Contact">
+                              <div class="navbar__item__icon">
+                                <i class="ico ico--contact"></i>
+                              </div>
+                              <div class="navbar__item__title">
+                                Contact
+                              </div>
+                            </a></li>
+                        </ul>
+                      </li>
+                      <li class="nav-has-dropdown">
+                        <div class="navbar__item navbar__item--xs">
+                          <div>
+                            <div class="navbar__item__icon">
+                              <i class="ico ico--chevron-l"></i>
+                            </div>
+                            <div class="navbar__item__title">
+                              Language
+                            </div>
+                          </div>
+                        </div>
+                        <div class="nav-dropdown lang">
+                          <span class="lang__current"> <i class="ico ico--world"></i> English <i
+                              class="ico ico--down"></i> </span>
+                          <ul class="lang__menu">
+                            <li><a href="/">
+                                <svg aria-hidden="true" width="12" height="12" role="img"
+                                  xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
+                                  <path fill="currentColor"
+                                    d="M435.848 83.466L172.804 346.51l-96.652-96.652c-4.686-4.686-12.284-4.686-16.971 0l-28.284 28.284c-4.686 4.686-4.686 12.284 0 16.971l133.421 133.421c4.686 4.686 12.284 4.686 16.971 0l299.813-299.813c4.686-4.686 4.686-12.284 0-16.971l-28.284-28.284c-4.686-4.686-12.284-4.686-16.97 0z"
+                                    class=""></path>
+                                </svg> English</a></li>
+                            <li><a href="/es"> Español</a></li>
+                            <li><a href="/fr"> Français</a></li>
+                            <li><a href="/de"> Deutsch</a></li>
+                            <li><a href="/it"> Italiano</a></li>
+                            <li><a href="/pt"> Português</a></li>
+                            <li><a href="/ja"> 日本語</a></li>
+                            <li><a href="/ru"> Pусский</a></li>
+                            <li><a href="/ko"> 한국어</a></li>
+                            <li><a href="/zh-cn"> 中文 (简体)</a></li>
+                            <li><a href="/zh-tw"> 中文 (繁體)</a></li>
+                            <li><a href="/ar"> العربية</a></li>
+                            <li><a href="/bg"> Български</a></li>
+                            <li><a href="/ca"> Català</a></li>
+                            <li><a href="/nl"> Nederlands</a></li>
+                            <li><a href="/el"> Ελληνικά</a></li>
+                            <li><a href="/hi"> हिन्दी</a></li>
+                            <li><a href="/id"> Bahasa Indonesia</a></li>
+                            <li><a href="/ms"> Bahasa Melayu</a></li>
+                            <li><a href="/pl"> Polski</a></li>
+                            <li><a href="/sv"> Svenska</a></li>
+                            <li><a href="/th"> ภาษาไทย</a></li>
+                            <li><a href="/tr"> Türkçe</a></li>
+                            <li><a href="/uk"> Українська</a></li>
+                            <li><a href="/vi"> Tiếng Việt</a></li>
+                          </ul>
+                        </div>
+                      </li>
+                      <li class="li-show-sm"> <a href="/login" class="btn btn--secondary show--sm">Login</a> <a
+                          href="/register" class="btn show--sm">Sign up</a> </li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <div class="main"> <!-- doc v3 -->
+    <div class="block block--intro block--grey">
+      <div class="block__container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-lg-5 col-md-12">
+            <div class="super">
+              <h1 class="super__title">Our features</h1>
+              <p class="super__content">Not so computer-savvy? No problem. Even if it’s your first time using iLovePDF,
+                we made it extremely simple. Our interface is user friendly. Our tools know how to do their job. So you
+                shouldn’t encounter any setbacks.</p>
+            </div>
+          </div>
+          <div class="col-lg-1">
+          </div>
+          <div class="col-lg-6 col-md-8 mt-md-5">
+            <img src="/img/features/features.svg" alt="Features">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="block block--white">
+      <div class="block__container">
+        <div class="block__header">
+          <h2 class="title1">What matters to you, matters to us</h2>
+          <h3 class="subtitle1">When it comes to dealing with your files, it is our task and duty to provide the best
+            possible service</h3>
+        </div>
+        <div class="block__body">
+          <div class="row justify-content-center">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+              <div class="infocard infocard--fill">
+                <div class="infocard__icon">
+                  <img src="/img/features/quality.svg" alt="The importance of a file">
+                </div>
+                <div class="infocard__title">
+                  The importance of a file
+                </div>
+                <div class="infocard__body">
+                  <p>We strive to bring you the smallest file size possible while maintaining the quality at its best.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
+              <div class="infocard infocard--fill">
+                <div class="infocard__icon">
+                  <img src="/img/features/security.svg" alt="Your security is our concern">
+                </div>
+                <div class="infocard__title">
+                  Your security is our concern
+                </div>
+                <div class="infocard__body">
+                  <p>In order to combat file theft, we automatically eliminate all your archives within two hours.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="block block--grey">
+      <div class="block__container">
+        <div class="block__body">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-6 col-md-8 mt-md-5 order-lg-first order-sm-3">
+              <div>
+                <img src="/img/features/files.svg" alt="We'll help you save time and effort">
+              </div>
+            </div>
+            <div class="col-lg-1 col-md-12"></div>
+            <div class="col-lg-5 col-md-12 mt-md-5">
+              <h2 class="title1">Enjoy a wiser use of time</h2>
+              <h3 class="subtitle1">We have created an entire suite of optimal tools which will speed up your document
+                processes</h3>
+              <h3 class="title3">We help you save your precious time</h3>
+              <p>You can batch edit your files instead of painfully dealing with them one at a time. Your files are
+                processed at high speed, so no need to wait, well… as long as you have a proper Internet connection.</p>
+              <h3 class="title3">Freedom to manage your files</h3>
+              <p>Arrange them alphabetically or in inverse alphabetical order. Forgot one? You can add more, remove some
+                of them, or rotate them after uploading. Because dealing with files can be a messy business.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="block block--white">
+      <div class="block__container">
+        <div class="block__body">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-5 col-md-12">
+              <h2 class="title1">Freedom to choose your platform</h2>
+              <h4 class="subtitle1">Keep up with your work from your favorite device. Our tools are accessible from the
+                web, mobile and desktop</h4>
+              <h3 class="title3">Work from the cloud</h3>
+              <p>We are integrated with Google Drive and Dropbox. This allows you to take your files from the cloud and,
+                once processed, save them back to your cloud storage accounts.</p>
+              <h3 class="title3">Edit on the go</h3>
+              <p>Because business doesn't stop while you are on the go, you can edit and convert your PDFs on your
+                smartphone with <a href="/mobile">iLovePDF Mobile App</a>. Available for iOS and Android.</p>
+              <h3 class="title3">Bring our tools to your Desktop</h3>
+              <p>Compress, merge, split, convert and edit your PDF files offline for maximum privacy with <a
+                  href="/desktop">iLovePDF Desktop</a>. Process your files directly on your computer and speed up
+                editing performance.</p>
+            </div>
+            <div class="col-lg-1 col-md-12"></div>
+            <div class="col-lg-6 col-md-8 mt-md-5">
+              <div class="text-center">
+                <img src="/img/features/mobile.svg" alt="Save mobile data working straight to the cloud">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="block block--grey">
+      <div class="bg"></div>
+      <div class="block__container">
+        <div class="block__body">
+          <div class="bg"></div>
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-5 col-md-8 mt-md-5 order-lg-first order-sm-3">
+              <div>
+                <img src="/img/features/team.png" alt="You can build up your own team!">
+              </div>
+            </div>
+            <div class="col-lg-1"></div>
+            <div class="col-lg-5 col-md-12">
+              <h2 class="title1">Get even more with Premium</h2>
+              <h3 class="subtitle1">Sometimes you just require a little something extra. Upgrade your iLovePDF
+                experience and boost your document productivity</h3>
+              <h3 class="title3">Create a team</h3>
+              <p>Premium features include managing your own team to share default actions. Adding a watermark with your
+                corporate logo or setting a page number format are just a couple of ideas.</p>
+              <h3 class="title3">Power up your tools</h3>
+              <p>Take our tools to the next level and get the job done faster by increasing file size barriers and
+                incrementing batch numbers per process. Offering ads-free workspace and unlimited access to all our
+                services.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="block block--separator block--white text-center">
+      <div class="bg"></div>
+      <div class="block__container">
+        <div class="block__body">
+          <div class="max800">
+            <svg class="heart" width="48px" height="43px" viewbox="0 0 48 43" version="1.1"
+              xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g transform="translate(-696.000000, -3270.000000)" fill="#E5322D">
+                  <g transform="translate(404.000000, 3270.000000)">
+                    <path
+                      d="M322.540678,19.3072731 L322.540678,3.40535522 L338.11729,19.3072731 L322.540678,19.3072731 Z M322.74695,1.27357969 C320.054976,2.59988235 318.035548,4.83527527 316.560604,7.36902534 C314.189828,3.30021404 310.420528,0 304.712397,0 C299.00158,0 292,4.94803538 292,13.3063021 C292,21.768491 298.916802,25.7793984 302.342517,28.0446575 C306.004353,30.4635142 312.252192,34.8614631 316.560604,43 C320.87021,34.8614631 327.117452,30.4635142 330.780184,28.0446575 C333.353649,26.3416752 337.900571,23.6521943 340,18.8272807 L322.74695,1.27357969 Z"
+                      id="Fill-1"></path>
+                  </g>
+                </g>
+              </g>
+            </svg>
+            <h3 class="title2">Because every PDF problem you might now have can be our next challenge</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script> if (typeof ib !== 'undefined') { ib.set('v', 'f'); } </script>
+  </div>
+  <div class="footer-main">
+    <div class="container">
+      <div class="d-flex justify-content-between flex-wrap">
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="footer-main__title">
+            iLovePDF
+          </div>
+          <ul class="footer-main__nav">
+            <li> <a href="/">Home</a> </li>
+            <li> <a href="/pricing">Pricing</a> </li>
+            <li> <a href="/help/security">Security</a> </li>
+            <li> <a href="/help/documentation">Tools</a> </li>
+            <li><a href="/help/faq">FAQ</a> </li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="footer-main__title">
+            Product
+          </div>
+          <ul class="footer-main__nav">
+            <li> <a href="/desktop">iLovePDF Desktop</a> </li>
+            <li> <a href="/mobile">iLovePDF Mobile</a> </li>
+            <!--<li><a href="https://signature.ilovepdf.com">iLovePDF Signature</a></li>-->
+            <li><a href="https://developer.ilovepdf.com" target="_blank" rel="noopener">Developers</a></li>
+            <li> <a href="/features">Features</a> </li>
+            <li> <a href="https://www.iloveimg.com/" target="_blank">iloveimg.com</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6 mt-md-0 mt-sm-5 col-xs-12">
+          <div class="footer-main__title">
+            Solutions
+          </div>
+          <ul class="footer-main__nav">
+            <li> <a href="/business">Business</a> </li>
+            <li> <a href="/education">Education</a> </li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6 mt-md-0 mt-sm-5 col-xs-12">
+          <div class="footer-main__title">
+            Company
+          </div>
+          <ul class="footer-main__nav">
+            <li> <a href="/help/about">Our Story</a> </li>
+            <li> <a href="/blog">Blog</a> </li>
+            <li> <a href="/press">Press</a> </li>
+            <li> <a href="/help/legal">Legal &amp; Privacy</a> </li>
+            <li> <a href="/contact">Contact</a> </li>
+          </ul>
+        </div>
+      </div>
+      <ul class="app__store"> <!--<li><a href="" rel="noopener" target="_blank" title="Microsoft Store"><img
+                        src="/img/logos/microsoft_store.svg"/></a></li>-->
+        <li><a href="https://play.google.com/store/apps/details?id=com.ilovepdf.www" rel="noopener" target="_blank"
+            title="Google Play"><img src="/img/logos/google_play.svg" alt="Google Play"></a></li>
+        <li><a href="https://itunes.apple.com/es/app/ilovepdf/id1207332399?mt=8" rel="noopener" target="_blank"
+            title="App Store"><img src="/img/logos/app_store.svg" alt="App Store"></a></li>
+      </ul>
+      <div class="separator"></div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="footer-big__lang"> <span class="lang__current"> <i class="ico ico--world"></i> English <i
+                class="ico ico--down"></i> </span>
+            <ul class="lang__menu">
+              <li><a href="/">
+                  <svg aria-hidden="true" width="12" height="12" role="img" xmlns="http://www.w3.org/2000/svg"
+                    viewbox="0 0 512 512">
+                    <path fill="currentColor"
+                      d="M435.848 83.466L172.804 346.51l-96.652-96.652c-4.686-4.686-12.284-4.686-16.971 0l-28.284 28.284c-4.686 4.686-4.686 12.284 0 16.971l133.421 133.421c4.686 4.686 12.284 4.686 16.971 0l299.813-299.813c4.686-4.686 4.686-12.284 0-16.971l-28.284-28.284c-4.686-4.686-12.284-4.686-16.97 0z"
+                      class=""></path>
+                  </svg> English</a></li>
+              <li><a href="/es"> Español</a></li>
+              <li><a href="/fr"> Français</a></li>
+              <li><a href="/de"> Deutsch</a></li>
+              <li><a href="/it"> Italiano</a></li>
+              <li><a href="/pt"> Português</a></li>
+              <li><a href="/ja"> 日本語</a></li>
+              <li><a href="/ru"> Pусский</a></li>
+              <li><a href="/ko"> 한국어</a></li>
+              <li><a href="/zh-cn"> 中文 (简体)</a></li>
+              <li><a href="/zh-tw"> 中文 (繁體)</a></li>
+              <li><a href="/ar"> العربية</a></li>
+              <li><a href="/bg"> Български</a></li>
+              <li><a href="/ca"> Català</a></li>
+              <li><a href="/nl"> Nederlands</a></li>
+              <li><a href="/el"> Ελληνικά</a></li>
+              <li><a href="/hi"> हिन्दी</a></li>
+              <li><a href="/id"> Bahasa Indonesia</a></li>
+              <li><a href="/ms"> Bahasa Melayu</a></li>
+              <li><a href="/pl"> Polski</a></li>
+              <li><a href="/sv"> Svenska</a></li>
+              <li><a href="/th"> ภาษาไทย</a></li>
+              <li><a href="/tr"> Türkçe</a></li>
+              <li><a href="/uk"> Українська</a></li>
+              <li><a href="/vi"> Tiếng Việt</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-8">
+          <div class="footer-main__info">
+            <div class="slogan">
+              <p>© iLovePDF 2025 ® - Your PDF Editor</p>
+            </div>
+            <div class="social"> <a class="social__item social__item--twitter" href="https://twitter.com/ilovepdf_com"
+                rel="noopener" target="_blank" title="Follow us on Twitter!"></a> <a
+                class="social__item social__item--facebook" href="https://www.facebook.com/ilovepdfcom-238648522858564/"
+                rel="noopener" target="_blank" title="Like us on Facebook!"></a> <a
+                class="social__item social__item--linkedin" href="https://www.linkedin.com/company/ilovepdf/"
+                rel="noopener" target="_blank" title="LinkedIn - ilovepdf"></a> <a
+                class="social__item social__item--instagram" href="https://www.instagram.com/ilovepdf_official/"
+                rel="noopener" target="_blank" title="Instagram - ilovepdf_official"></a> <a
+                class="social__item social__item--tiktok" href="https://www.tiktok.com/@ilovepdf_official"
+                rel="noopener" target="_blank" title="TikTok - ilovepdf_official"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="network" class="network"> <i class="ico ico--network"></i>
+    <div class="network__text">
+      Woops! Something is wrong with your Internet connection...
+    </div>
+  </div>
+  <script>
+    var siteData = {
+      csrfParam: '_csrf-ilovepdf',
+      csrfToken: 'q8aJZ2qn3hGOb0pG2t1MqjrjQNzSDrWuxxKQGdE6HXD_gr4NP9G9fPlfJhOeumHFXqwoiKdmw8yhJOBB4lctFg=='
+    };
+    var lang = 'en-US';
+    var brand = 'iLovePDF';
+    var brand_ref = 'ilovepdf';
+    var nds = {
+      'ck': 0,
+      'content': '<p>We hope you like it and find it easier to use.<br>If you run into any issues, please <a href=\"/contact\">let us know</a>.<br>We can fix any problem if we know about it.</p>',
+      'title': '<span style="color:#1D9D58">Welcome to the newly designed iLovePDF</span>'
+    };
+  </script>
+  <script src="/dist/js/web.19b357b.js" async></script>
+  <script src="/dist/js/pages.19b357b.js" async></script>
+</body>
+
+</html>

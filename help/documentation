@@ -1,0 +1,923 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>All the help you need to enjoy our online tools for managing PDFs</title> 
+  <meta name="description" content="We offer you the help you need to compress, convert and manage PDF files with iLovePDF."> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"> 
+  <meta name="author" content="ilovepdf.com"> 
+  <meta name="keywords" content="Merge PDF, split PDF, combine PDF, extract PDF, compress PDF, convert PDF, Word to PDF, Excel to PDF, Powerpoint to PDF, PDF to JPG, JPG to PDF"> 
+  <link rel="canonical" href="https://www.ilovepdf.com/help/documentation"> 
+  <meta name="apple-itunes-app" content="app-id=1207332399"> 
+  <meta name="google-play-app" content="app-id=com.ilovepdf.www"> 
+  <link rel="apple-touch-icon" href="/img/app-icon.png"> 
+  <meta name="google-site-verification" content="IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo"> 
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicons-pdf/favicon-32x32.png"> 
+  <meta property="og:site_name" content="iLovePDF - Online tools for PDF"> 
+  <meta property="og:title" content="All the help you need to enjoy our online tools for managing PDFs"> 
+  <meta property="og:description" content="We offer you the help you need to compress, convert and manage PDF files with iLovePDF."> 
+  <meta property="og:image" content="https://www.ilovepdf.com/img/ilovepdf/social/en-US/ilovepdf.png"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:url" content="https://www.ilovepdf.com/help/documentation"> 
+  <meta property="og:app_id" content="127502793959418"> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="twitter:site" content="@ilovepdf_com"> 
+  <meta name="twitter:creator" content="@ilovepdf_com"> 
+  <meta name="twitter:title" content="All the help you need to enjoy our online tools for managing PDFs"> 
+  <meta name="twitter:description" content="We offer you the help you need to compress, convert and manage PDF files with iLovePDF."> 
+  <meta name="twitter:image:src" content="https://www.ilovepdf.com/img/ilovepdf/social/en-US/ilovepdf.png"> 
+  <link rel="preload" href="/font/Graphik-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous"> 
+  <link rel="preload" href="/font/Graphik-Semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous"> 
+  <link rel="preload" href="/font/Graphik-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous"> 
+  <link rel="preload" href="/font/Graphik-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous"> 
+  <meta name="csrf-param" content="_csrf-ilovepdf"> 
+  <meta name="csrf-token" content="NebE1NktpufC5gbG1-tsrYZC20CxfiFvfutD_4-wZSlhovO-jFvFirXWapOTjEHC4g2zFMQWVw0Y3TOnvN1VTw=="> 
+  <script>var ilx = {'c': 'site', 'a': 'documentation'};</script> 
+  <script>
+    var isgdpr=false;
+    var cmp_ck=0;
+    var release='19b357b';
+    (function (i,l,o,v,e,g,u,a) {
+        i['ib']=i['ib']||{'set':function(){(i['ib'].q=i['ib'].q||[]).push(arguments)}};
+        i['iLE']=e;i[e]=i[e]||function(){(i[e].q=i[e].q||[]).push(arguments)};i[e].l=1*new Date();u=l.createElement(o);
+        a=l.getElementsByTagName(o)[0];u.async=1;u.src=v;a.parentNode.insertBefore(u,a);i[e+'u']=g;    })(window, document, 'script', '/js/ilove.min.js?a=1.3', 'ev');
+        ev('set', 'cmp_ck', cmp_ck);
+        ev('set', 'release', release);
+            ev('sendOnce', 'pageview');
+    </script> 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-44KQ8HETWT"></script> 
+  <script>
+    var gck=undefined;
+    var c_cg="granted",c_cd="denied";
+    var gcas=gcaa=gcap=gcad=c_cg;isgdpr&&(gcas=c_cd,gcaa=c_cd,gcap=c_cd,gcad=c_cd,1==gck?(gcas=c_cg,gcaa=c_cg,gcap=c_cg,gcad=c_cg):2==gck?(gcas=c_cd,gcaa=c_cg,gcap=c_cg,gcad=c_cg):3==gck&&(gcas=c_cd,gcaa=c_cd,gcap=c_cd,gcad=c_cd));
+    window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {'analytics_storage': gcas, 'ad_storage': gcaa, 'ad_personalization': gcap, 'ad_user_data': gcad});gtag('js', new Date());
+    var config = {};    gtag('config', 'G-44KQ8HETWT', config);
+</script>
+  <script>
+(function(){
+    window.__browserSupports__ = [];
+    try{ 
+        var grid_supported = typeof document.createElement('div').style.grid === 'string';
+        grid_supported ? window.__browserSupports__.push('grid') : window.__browserSupports__.push('not:grid');
+    }catch(e){}
+
+    var interval = null;
+    var fn = function(){
+        document.body.setAttribute("data-browser-supports", window.__browserSupports__.join(" "));
+        clearInterval(interval);
+        interval = null;
+    }
+
+    interval = setInterval(function(){
+        if(document.body) fn();
+    }, 5);
+})();
+</script>
+  <link href="/dist/css/web.19b357b.css" rel="stylesheet"> 
+  <link href="/dist/css/pages.19b357b.css" rel="stylesheet">
+ </head> 
+ <body class="lang-en-US documentation  "> 
+  <header class="header"> 
+   <nav> <a class="brand" href="/" title="iLovePDF"> <img src="/img/ilovepdf.svg" alt="iLovePDF"> </a> 
+    <div class="menu"> <span class="menu--sm"><i class="ico ico--hamburger"></i></span> <span class="menu--md">All PDF tools <i class="ico ico--down"></i></span> 
+     <ul> 
+      <li><a href="/merge_pdf">Merge PDF</a></li> 
+      <li><a href="/split_pdf">Split PDF</a></li> 
+      <li><a href="/compress_pdf">Compress PDF</a></li> 
+      <li class="nav-has-dropdown"> <span>Convert PDF<i class="ico ico--down"></i> </span> 
+       <div class="nav-dropdown"> 
+        <ul> 
+         <li> 
+          <ul> 
+           <li> 
+            <div class="nav__title">
+             Convert to PDF
+            </div> </li> 
+           <li><a href="/jpg_to_pdf"><i class="ico ico--jpgpdf"></i>JPG to PDF</a></li> 
+           <li><a href="/word_to_pdf"><i class="ico ico--wordpdf"></i>WORD to PDF</a></li> 
+           <li><a href="/powerpoint_to_pdf"><i class="ico ico--powerpointpdf"></i>POWERPOINT to PDF</a></li> 
+           <li><a href="/excel_to_pdf"><i class="ico ico--excelpdf"></i>EXCEL to PDF</a></li> 
+           <li><a href="/html-to-pdf"><i class="ico ico--htmlpdf"></i> HTML to PDF</a></li> 
+          </ul> </li> 
+         <li> 
+          <ul> 
+           <li>
+            <div class="nav__title">
+             Convert from PDF
+            </div></li> 
+           <li><a href="/pdf_to_jpg"><i class="ico ico--pdfjpg"></i> PDF to JPG</a></li> 
+           <li><a href="/pdf_to_word"><i class="ico ico--pdfword"></i> PDF to WORD</a></li> 
+           <li><a href="/pdf_to_powerpoint"><i class="ico ico--pdfpowerpoint"></i> PDF to POWERPOINT</a></li> 
+           <li><a href="/pdf_to_excel"><i class="ico ico--pdfexcel"></i> PDF to EXCEL</a></li> 
+           <li><a href="/convert-pdf-to-pdfa"><i class="ico ico--pdfa"></i> PDF to PDF/A</a></li> 
+          </ul> </li> 
+        </ul> 
+       </div> </li> 
+     </ul> 
+     <ul class="menu__main"> 
+      <li class="nav-has-dropdown nav-has-dropdown--full"> <span class="hide--sm">All PDF tools<i class="ico ico--down"></i> </span> 
+       <div class="nav-dropdown nav-dropdown--full"> 
+        <ul> 
+         <li> 
+          <ul> 
+           <li>
+            <div class="nav__title">
+             Organize PDF
+            </div></li> 
+           <li><a href="/merge_pdf"><i class="ico ico--merge"></i> Merge PDF</a></li> 
+           <li><a href="/split_pdf"><i class="ico ico--split"></i> Split PDF</a></li> 
+           <li><a href="/remove-pages"><i class="ico ico--remove"></i> Remove pages</a></li> 
+           <li><a href="/split_pdf#split,extract"><i class="ico ico--extract"></i> Extract pages</a></li> 
+           <li><a href="/organize-pdf"><i class="ico ico--organize"></i> Organize PDF</a></li> 
+           <li><a href="/scan-pdf"><i class="ico ico--scan"></i> Scan to PDF</a></li> 
+          </ul> </li> 
+         <li> 
+          <ul> 
+           <li>
+            <div class="nav__title">
+             Optimize PDF
+            </div></li> 
+           <li><a href="/compress_pdf"><i class="ico ico--compress"></i> Compress PDF</a></li> 
+           <li><a href="/repair-pdf"><i class="ico ico--repair"></i> Repair PDF</a></li> 
+           <li><a href="/ocr-pdf"><i class="ico ico--pdfocr"></i> OCR PDF</a></li> 
+          </ul> </li> 
+         <li> 
+          <ul> 
+           <li>
+            <div class="nav__title">
+             Convert to PDF
+            </div></li> 
+           <li><a href="/jpg_to_pdf"><i class="ico ico--jpgpdf"></i> JPG to PDF</a></li> 
+           <li><a href="/word_to_pdf"><i class="ico ico--wordpdf"></i>WORD to PDF</a></li> 
+           <li><a href="/powerpoint_to_pdf"><i class="ico ico--powerpointpdf"></i> POWERPOINT to PDF</a></li> 
+           <li><a href="/excel_to_pdf"><i class="ico ico--excelpdf"></i> EXCEL to PDF</a></li> 
+           <li><a href="/html-to-pdf"><i class="ico ico--htmlpdf"></i> HTML to PDF</a></li> 
+          </ul> </li> 
+         <li> 
+          <ul> 
+           <li>
+            <div class="nav__title">
+             Convert from PDF
+            </div></li> 
+           <li><a href="/pdf_to_jpg"><i class="ico ico--pdfjpg"></i> PDF to JPG</a></li> 
+           <li><a href="/pdf_to_word"><i class="ico ico--pdfword"></i>PDF to WORD</a></li> 
+           <li><a href="/pdf_to_powerpoint"><i class="ico ico--pdfpowerpoint"></i> PDF to POWERPOINT</a></li> 
+           <li><a href="/pdf_to_excel"><i class="ico ico--pdfexcel"></i> PDF to EXCEL</a></li> 
+           <li><a href="/convert-pdf-to-pdfa"><i class="ico ico--pdfa"></i> PDF to PDF/A</a></li> 
+          </ul> </li> 
+         <li> 
+          <ul> 
+           <li>
+            <div class="nav__title">
+             Edit PDF
+            </div></li> 
+           <li><a href="/rotate_pdf"><i class="ico ico--rotate"></i>Rotate PDF</a></li> 
+           <li><a href="/add_pdf_page_number"><i class="ico ico--pagenumber"></i> Add page numbers</a></li> 
+           <li><a href="/pdf_add_watermark"><i class="ico ico--watermark"></i> Add watermark</a></li> 
+           <li><a href="/crop-pdf"><i class="ico ico--pdfcrop"></i>Crop PDF</a></li> 
+           <li><a href="/edit-pdf"><i class="ico ico--editpdf"></i>Edit PDF</a></li> 
+          </ul> </li> 
+         <li> 
+          <ul> 
+           <li>
+            <div class="nav__title">
+             PDF security
+            </div></li> 
+           <li><a href="/unlock_pdf"><i class="ico ico--unlock"></i> Unlock PDF</a></li> 
+           <li><a href="/protect-pdf"><i class="ico ico--protect"></i>Protect PDF</a></li> 
+           <li><a href="/sign-pdf"><i class="ico ico--sign"></i>Sign PDF</a></li> 
+           <li><a href="/redact-pdf"><i class="ico ico--redact"></i> Redact PDF</a></li> 
+           <li><a href="/compare-pdf"><i class="ico ico--pdfcompare"></i> Compare PDF</a></li> 
+          </ul> </li> 
+        </ul> 
+       </div> </li> 
+     </ul> 
+    </div> 
+    <div class="nav-actions"> <a data-rel="user-action" href="/login" class="link--secondary hide--sm">Login</a> <a data-rel="user-action" href="/register" class="btn btn--sm hide--sm">Sign up</a> 
+     <ul> 
+      <li class="nav-has-dropdown"> <span><i class="ico ico--more"></i></span> 
+       <div class="nav-dropdown nav-dropdown--left nav-dropdown--company"> 
+        <ul class="menu-comp"> 
+         <li> 
+          <div class="menu-comp__products"> 
+           <ul class="nav__group"> 
+            <li class="nav__title">Other products</li> 
+            <li class="navbar__item navbar__item--md"> <a href="https://www.iloveimg.com" title="iLoveIMG"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--iloveimg"></i>
+              </div> 
+              <div class="navbar__item__content"> 
+               <div class="navbar__item__title">
+                iLoveIMG
+               </div> 
+               <div class="navbar__item__description">
+                Effortless image editing
+               </div> 
+              </div> 
+              <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i> 
+              </div> </a></li> 
+            <li class="navbar__item navbar__item--md"> <a href="https://www.ilovesign.com" title="iLoveSign"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--ilovesign"></i>
+              </div> 
+              <div class="navbar__item__content"> 
+               <div class="navbar__item__title">
+                iLoveSign
+               </div> 
+               <div class="navbar__item__description">
+                e-Signing made simple
+               </div> 
+              </div> 
+              <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i> 
+              </div> </a></li> 
+            <li class="navbar__item navbar__item--md"> <a href="https://www.iloveapi.com" title="iLoveAPI"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--iloveapi"></i>
+              </div> 
+              <div class="navbar__item__content"> 
+               <div class="navbar__item__title">
+                iLoveAPI
+               </div> 
+               <div class="navbar__item__description">
+                Document automation for developers
+               </div> 
+              </div> 
+              <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i> 
+              </div> </a></li> 
+            <li class="navbar__item navbar__item--sm navbar__item--sub"> <a href="https://www.iloveapi.com/integrations" title="Integrations"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--integrations"></i>
+              </div> 
+              <div class="navbar__item__content"> 
+               <div class="navbar__item__title">
+                Integrations
+               </div> 
+               <div class="navbar__item__description">
+                Zapier, Make, Wordpress...
+               </div> 
+              </div> 
+              <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i> 
+              </div> </a></li> 
+           </ul> 
+          </div> </li> 
+         <li> 
+          <div class="menu-comp__business"> 
+           <ul class="nav__group"> 
+            <li class="nav__title">Solutions</li> 
+            <li class="navbar__item navbar__item--lg"> <a href="/business" title="Business"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--business"></i>
+              </div> 
+              <div class="navbar__item__content"> 
+               <div class="navbar__item__title">
+                Business
+               </div> 
+               <div class="navbar__item__description">
+                Streamlined PDF editing and workflows for business teams
+               </div> 
+              </div> 
+              <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i> 
+              </div> </a></li> 
+           </ul> 
+           <ul class="nav__group"> 
+            <li class="nav__title">Applications</li> 
+            <li class="navbar__item navbar__item--md"> <a href="/desktop" title="Desktop App"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--desktop"></i>
+              </div> 
+              <div class="navbar__item__content"> 
+               <div class="navbar__item__title">
+                Desktop App
+               </div> 
+               <div class="navbar__item__description">
+                Available for Mac and Windows
+               </div> 
+              </div> 
+              <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i> 
+              </div> </a></li> 
+            <li class="navbar__item navbar__item--md"> <a href="/mobile" title="Mobile App"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--mobile"></i>
+              </div> 
+              <div class="navbar__item__content"> 
+               <div class="navbar__item__title">
+                Mobile App
+               </div> 
+               <div class="navbar__item__description">
+                Available for iOS and Android
+               </div> 
+              </div> 
+              <div class="navbar__item__go"> <i class="ico ico--arrow-r"></i> 
+              </div> </a></li> 
+           </ul> 
+          </div> </li> 
+         <li> 
+          <div class="menu-comp__general"> 
+           <ul> 
+            <li class="navbar__item navbar__item--xs"> <a href="/pricing" title="Pricing"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--pricing"></i>
+              </div> 
+              <div class="navbar__item__title">
+               Pricing
+              </div> </a></li> 
+            <li class="navbar__item navbar__item--xs"> <a href="/help/security" title="Security"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--security"></i>
+              </div> 
+              <div class="navbar__item__title">
+               Security
+              </div> </a></li> 
+            <li class="navbar__item navbar__item--xs"> <a href="/features" title="Features"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--features"></i>
+              </div> 
+              <div class="navbar__item__title">
+               Features
+              </div> </a></li> 
+            <li class="navbar__item navbar__item--xs"> <a href="/help/about" title="About us"> 
+              <div class="navbar__item__icon">
+               <i class="ico ico--about"></i>
+              </div> 
+              <div class="navbar__item__title">
+               About us
+              </div> </a></li> 
+            <li class="divider divider--break"></li> 
+            <li class="nav-has-dropdown"> 
+             <div class="navbar__item navbar__item--xs"> 
+              <div> 
+               <div class="navbar__item__icon">
+                <i class="ico ico--chevron-l"></i>
+               </div> 
+               <div class="navbar__item__title">
+                Help
+               </div> 
+              </div>
+             </div> 
+             <ul class="nav-dropdown"> 
+              <li class="navbar__item navbar__item--xs"> <a href="/help/faq" title="FAQ"> 
+                <div class="navbar__item__icon">
+                 <i class="ico ico--faq"></i>
+                </div> 
+                <div class="navbar__item__title">
+                 FAQ
+                </div> </a></li> 
+              <li class="navbar__item navbar__item--xs"> <a href="/help/documentation" title="Tools"> 
+                <div class="navbar__item__icon">
+                 <i class="ico ico--documentation"></i>
+                </div> 
+                <div class="navbar__item__title">
+                 Tools
+                </div> </a></li> 
+              <li class="navbar__item navbar__item--xs"> <a href="/help/legal" title="Legal &amp; Privacy"> 
+                <div class="navbar__item__icon">
+                 <i class="ico ico--legal"></i>
+                </div> 
+                <div class="navbar__item__title">
+                 Legal &amp; Privacy
+                </div> </a></li> 
+              <li class="navbar__item navbar__item--xs"> <a href="/contact" title="Contact"> 
+                <div class="navbar__item__icon">
+                 <i class="ico ico--contact"></i>
+                </div> 
+                <div class="navbar__item__title">
+                 Contact
+                </div> </a></li> 
+             </ul> </li> 
+            <li class="nav-has-dropdown"> 
+             <div class="navbar__item navbar__item--xs"> 
+              <div> 
+               <div class="navbar__item__icon">
+                <i class="ico ico--chevron-l"></i>
+               </div> 
+               <div class="navbar__item__title">
+                Language
+               </div> 
+              </div>
+             </div> 
+             <div class="nav-dropdown lang">
+              <span class="lang__current"> <i class="ico ico--world"></i> English <i class="ico ico--down"></i> </span> 
+              <ul class="lang__menu"> 
+               <li><a href="/">
+                 <svg aria-hidden="true" width="12" height="12" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
+                  <path fill="currentColor" d="M435.848 83.466L172.804 346.51l-96.652-96.652c-4.686-4.686-12.284-4.686-16.971 0l-28.284 28.284c-4.686 4.686-4.686 12.284 0 16.971l133.421 133.421c4.686 4.686 12.284 4.686 16.971 0l299.813-299.813c4.686-4.686 4.686-12.284 0-16.971l-28.284-28.284c-4.686-4.686-12.284-4.686-16.97 0z" class=""></path>
+                 </svg> English</a></li> 
+               <li><a href="/es"> Español</a></li> 
+               <li><a href="/fr"> Français</a></li> 
+               <li><a href="/de"> Deutsch</a></li> 
+               <li><a href="/it"> Italiano</a></li> 
+               <li><a href="/pt"> Português</a></li> 
+               <li><a href="/ja"> 日本語</a></li> 
+               <li><a href="/ru"> Pусский</a></li> 
+               <li><a href="/ko"> 한국어</a></li> 
+               <li><a href="/zh-cn"> 中文 (简体)</a></li> 
+               <li><a href="/zh-tw"> 中文 (繁體)</a></li> 
+               <li><a href="/ar"> العربية</a></li> 
+               <li><a href="/bg"> Български</a></li> 
+               <li><a href="/ca"> Català</a></li> 
+               <li><a href="/nl"> Nederlands</a></li> 
+               <li><a href="/el"> Ελληνικά</a></li> 
+               <li><a href="/hi"> हिन्दी</a></li> 
+               <li><a href="/id"> Bahasa Indonesia</a></li> 
+               <li><a href="/ms"> Bahasa Melayu</a></li> 
+               <li><a href="/pl"> Polski</a></li> 
+               <li><a href="/sv"> Svenska</a></li> 
+               <li><a href="/th"> ภาษาไทย</a></li> 
+               <li><a href="/tr"> Türkçe</a></li> 
+               <li><a href="/uk"> Українська</a></li> 
+               <li><a href="/vi"> Tiếng Việt</a></li> 
+              </ul> 
+             </div> </li> 
+            <li class="li-show-sm"> <a href="/login" class="btn btn--secondary show--sm">Login</a> <a href="/register" class="btn show--sm">Sign up</a> </li> 
+           </ul> 
+          </div> </li> 
+        </ul> 
+       </div> </li> 
+     </ul> 
+    </div> 
+   </nav> 
+  </header> 
+  <div class="main"> <!-- v3 --> 
+   <div class="block block--white"> 
+    <div class="block__container"> 
+     <div class="block__header"> 
+      <h1 class="title">Welcome to our user's guide</h1> 
+      <h4 class="subtitle">Although we have tried to make it really simple, here is a short guidance to help you through the editing process.</h4> 
+     </div> 
+     <div class="block__body"> 
+      <div class="guide"> 
+       <div class="guide__title">
+         Organize PDF 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/merge.svg" alt="Merge PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Merge PDF</h3> 
+         <p>To <strong>merge two or more PDFs</strong>, select the documents from your <a href="#select">device</a> or from your <a href="#cloud">Google Drive or Dropbox</a> account. You can arrange the files however you like before merging them.</p> 
+         <p>You can also combine several password-protected documents into one. <a href="#cloud">Upload</a> the selected files, process them, and then download your merged file. Check 'Merge PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/split.svg" alt="Split PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Split PDF</h3> 
+         <p>To <strong>split a PDF into different files</strong>, select the document from your <a href="#select">device</a> or from your cloud storage accounts such as <a href="#cloud">Google Drive or Dropbox</a>. You can also divide password-protected documents.</p> 
+         <p><a href="#cloud">Upload</a> the file to split. You can either split your file by ranges or extract all pages. You can also merge all ranges in one PDF file. Hit the Split PDF button and you'll be good to go. Check 'Split PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/remove.svg" alt="Remove pages"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Remove Pages</h3> 
+         <p>To <strong>remove pages from one or multiple PDFs</strong>, upload your file from your <a href="#select">device</a> or download it from your cloud-connected accounts as <a href="#cloud">Google Drive or Dropbox</a>. You can remove pages from password protected documents as well.</p> 
+         <p>You will see a thumbnail of every page of your file. When uploading multiple files, the thumbnails of each file will be framed in a different color. You can click on each thumbnail to remove that page. After clicking, a red cross will appear over the thumbnail, showing that the page will be removed. Hit on Remove Pages button to download your processed PDF. Check 'Remove Pages' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/extract.svg" alt="Extract pages"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Extract Pages</h3> 
+         <p>To <strong>extract pages from a PDF</strong> file, upload your file from your <a href="#select">device</a> or from your cloud storage accounts as <a href="#cloud">Google Drive or Dropbox</a>. You can remove pages from password protected documents too.</p> 
+         <p>You will see a thumbnail of every page of your file. When uploading more than one file, the thumbnails of each file will be framed in a different color. Click on the pages you want to extract. Choose if you want to merge all the extracted pages into a new PDF or download it in a .zip folder. Then, hit the Extract Pages button. Check 'Extract Pages' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/organize.svg" alt="Organize PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Organize PDF</h3> 
+         <p>To <strong>organize the pages from a PDF</strong> file, upload your file from your <a href="#select">device</a> or download it straight from the cloud through your <a href="#cloud">Google Drive or Dropbox</a> account. You can remove pages from password protected documents as well.</p> 
+         <p>You will see a thumbnail of every page of your file. When uploading more than one file, the thumbnails of each file will be framed in a different color. Then you can remove or drag and drop the thumbnails to rearrange PDF pages however you like. Hit the 'Organize PDF' button to download your new PDF. Check 'Organize PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__title">
+         Optimize PDF 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/compress.svg" alt="Watermark IMAGE"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Compress PDF</h3> 
+         <p>To <strong>compress PDF</strong> files, select the documents from your <a href="#select">device</a> or from your <a href="#cloud">Google Drive or Dropbox</a> account. <a href="#cloud">Upload</a> the file or files to optimize. Choose between extreme, high or regular compression level and then hit the Compress PDF button. The higher compression, the lower file size and quality.</p> 
+         <p>Click 'Compress PDF' button to download your reduced PDF or save it back to the cloud. Check 'Compress PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__title">
+         Edit PDF 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/edit.svg" alt="Edit PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Edit PDF</h3> 
+         <p>To <strong>edit your PDF</strong>, upload your file from your <a href="#select">device</a> or from your <a href="#cloud">Google Drive or Dropbox</a> account.</p> 
+         <p>Once inside the PDF viewer, use the top toolbar to <strong>navigate through your document</strong>. Click on the wheel icon to decide your page setup. You can view a single page or multiple pages at once. To move in and around individual pages, select the hand icon.Use the magnifying glasses to zoom in and out on specific sections of the document. </p> 
+         <p><strong>To add elements</strong> or text <strong>to a page</strong>, scroll down to the page which you want to edit. Choose from the <strong>Text</strong>, <strong>Image</strong> or <strong>Shape</strong> icons available in the Edit PDF toolbar at the top of the viewer. Use your mouse to <strong>resize</strong> or <strong>move</strong> any element as you wish on the same page where it was created.</p> 
+         <p><strong>To add elements to a different page,</strong> navigate to the page and then select a new item from the toolbar. Change the <strong>colour, transparency, border color, rotation, format</strong> or <strong>line thickness</strong> of your images, shapes or texts using their property bars. Click the ‘Edit PDF’ button to process your file.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/pagenumbers.svg" alt="Add page numbers"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Add page numbers</h3> 
+         <p>To <strong>number PDF pages</strong>, upload your files from your <a href="#select">device</a> or from your <a href="#cloud">Google Drive or Dropbox</a> account. Choose if you want to number all pages or just facing pages. Choose the page range to number. You can also edit the position of your number, and its format (typo, size color, opacity…) in the toolbar.</p> 
+         <p>Then hit 'Add Page Numbers' button and download or save back to the cloud your numbered PDF. Check 'Page Numbers' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/watermark.svg" alt="Add watermark"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Add watermark</h3> 
+         <p>To <strong>watermark PDF</strong> files, upload your PDF from your <a href="#select">device</a> or from your <a href="#cloud">Google Drive or Dropbox</a> account. You can combine text and image in your watermark, which will be stamped in the same position in all the pages of your file. You can custom format, orientation and opacity.</p> 
+         <p>Then hit 'Add watermark' button and download or save back to the cloud your watermarked PDF. Check 'Watermark' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/repair.svg" alt="Repair PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Repair PDF</h3> 
+         <p>To <strong>repair a PDF</strong>, upload your damaged or corrupt PDF file from your <a href="#select">device</a> or from your <a href="#cloud">Google Drive or Dropbox</a> account. Our tool will try to analyze, repair or recover content from your corrupt file.</p> 
+         <p>Then hit 'Repair' button and download or save back to the cloud your repaired PDF. Check 'Repair PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__title">
+         Convert to PDF 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/imagepdf.svg" alt="JPG to PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>JPG to PDF</h3> 
+         <p>To convert one or multiple files <strong>JPG to PDF</strong>, upload your images form your <a href="#select">device</a> or straight from your <a href="#cloud">Google Drive or Dropbox</a> accounts.</p> 
+         <p>Choose if you want your output PDF into portrait or landscape mode and if you want it with margin or without. You can also merge all images in a single PDF file. Then, download your PDF or save it back to the cloud. Check 'JPG to PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/wordpdf.svg" alt="WORD to PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>WORD to PDF</h3> 
+         <p>To convert one or more documents from <strong>WORD to PDF</strong>, select the documents from your <a href="#select">device</a> or from your cloud storage accounts such as <a href="#cloud">Google Drive or Dropbox</a> account.</p> 
+         <p>Click on Convert to PDF to transform your .docx into a non-editable document. Then, download your PDF or save it back to the cloud. Check 'Word to PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/powerpointpdf.svg" alt="POWERPOINT to PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>POWERPOINT to PDF</h3> 
+         <p>To convert one or multiple files from <strong>Power Point to PDF</strong>, upload the documents from your <a href="#select">device</a> or straight from the Cloud through <a href="#cloud">Google Drive or Dropbox</a>.</p> 
+         <p>Click on Convert to PDF to transform your .pptx into a non-editable document. All the pictures and text from your .pptx presentation will be converted to a PDF file. Then, download your PDF or save it back to the cloud. Check 'Power Point to PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/excelpdf.svg" alt="Excel to PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>EXCEL to PDF</h3> 
+         <p>To convert one or multiple files from <strong>Excel to PDF</strong>, upload the documents from your <a href="#select">device</a> or straight from your <a href="#cloud">Google Drive or Dropbox</a> account.</p> 
+         <p>Click on 'Convert to PDF' to transform your .xlsx into a non-editable document. All the tables and graphics from your Excel will be converted to a PDF document. Then, download your PDF or save it back to the cloud. Check 'Excel to PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/htmlpdf.svg" alt="HTML to PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>HTML to PDF</h3> 
+         <p>To <strong>convert a webpage to PDF</strong>, upload your images from your device or straight from your Google Drive or Dropbox accounts.</p> 
+         <p>Paste the URL you want to convert in the text box. A preview of the document will be shown. You can customize the orientation and the margin of the resulting document from the sidebar menu.</p> 
+         <p>Click the 'Convert to PDF' button. Download your exported webpage or save it back to the Cloud. Check 'HTML to PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__title">
+         Convert from PDF 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/pdfjpg.svg" alt="PDF to JPG"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>PDF to JPG</h3> 
+         <p>To convert a <strong>PDF to a JPG</strong> image, select the file from your <a href="#select">device</a> or from your <a href="#cloud">Google Drive or Dropbox</a> account.</p> 
+         <p>You can transform your PDF into a JPG or extract all the pictures in a .zip file. Then, hit the 'Convert to JPG' button to transform your PDF to JPG. Check the 'PDF to JPG' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/pdfword.svg" alt="PDF to WORD"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>PDF to WORD</h3> 
+         <p>To convert one or more documents from <strong>PDF to Word</strong>, select the documents from your <a href="#select">device</a> or from your cloud storage accounts such as <a href="#cloud">Google Drive or Dropbox</a> account.</p> 
+         <p>Click on 'Convert to Word' to transform your PDF into an editable document. Then, download your .docx file or save it back to the cloud. Check 'PDF to Word' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/pdfpowerpoint.svg" alt="PDF to POWERPOINT"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>PDF to POWERPOINT</h3> 
+         <p>To convert <strong>PDF files to Power Point</strong>, upload the documents from your <a href="#select">device</a> or straight from the cloud through <a href="#cloud">Google Drive or Dropbox</a>.</p> 
+         <p>Click on 'Convert to Power Point' to transform your PDF into an editable document. All the pictures, text and graphics from your PDF will be converted to a PDF file. When converting a document of multiple pages, each page will be transformed into a .pptx slide. Then, download your .pptx file or save it back to the cloud. Check 'PDF to Power Point' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/pdfexcel.svg" alt="Pdf to Excel"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>PDF to EXCEL</h3> 
+         <p>To convert one or multiple files <strong>from PDF to Excel</strong>, upload the documents from your <a href="#select">device</a> or straight from your <a href="#cloud">Google Drive or Dropbox</a> account.</p> 
+         <p>Click on 'Convert to Excel' to transform your PDF into an editable document. All the tables and graphics from your PDF will be converted to a .xslx document. Then, download your Excel file or save it back to the cloud. Check 'PDF to Excel' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__title">
+         PDF Security 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/unlock.svg" alt="Unlock pdf"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Unlock PDF</h3> 
+         <p>To <strong>remove the password from a PDF</strong> file, upload the document from your <a href="#select">device</a> or straight from your <a href="#cloud">Google Drive or Dropbox</a> account.</p> 
+         <p>Then click the 'Unlock PDF' button. Our tool will unlock your document by removing its password. Check the 'Unlock PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/protect.svg" alt="Protect PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Protect PDF</h3> 
+         <p>To <strong>secure a PDF</strong> with a password, upload the document from your <a href="#select">device</a> or straight from your <a href="#cloud">Google Drive or Dropbox</a> account.</p> 
+         <p>Choose a user password to encrypt and secure your PDF. Then, hit the 'Protect PDF' button to add the password to your file. Check the 'Protect PDF' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/pdfa.svg" alt="PDF to PDF/A"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>PDF to PDF/A</h3> 
+         <p>To convert or batch convert your <strong>PDF to PDF/A</strong>, upload the document from your <a href="#select">device</a> or straight from your <a href="#cloud">Google Drive or Dropbox</a> account.</p> 
+         <p>Then hit the 'PDF to PDF/A' button and download or save back to the cloud your converted PDF for long-term archiving and preservation. Check the 'PDF to PDF/A' <a href="/pricing">limits</a> for each account type.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+         <img src="/img/tools/small/sign.svg" alt="Sign PDF"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Sign PDF</h3> 
+         <h4 class="title4">To sign your own document</h4> 
+         <p>Upload the document to our Sign PDF tool. <strong>Sign</strong>. Choose your preferred signature adoption from the sidebar menu to customize your signature. You can either draw your signature, upload an existing one or sign with text. You can add other fields to your signature such as date and initials. Download. Click the ‘Sign PDF’ button to download your signed PDF or save it back to the Cloud.</p> 
+         <h4 class="title4">To collect e-Signatures</h4> 
+         <p>To create a signature request, upload the document to our Sign PDF tool. Once you have uploaded your PDF document, <strong>create a signature request</strong>. You will need to add signers, include signing fields, adjust security parameters, and then send. Sign. All signers will receive an email with access to the document, and they will be able to read it and sign it. <strong>Download</strong>. Once the signature process has been completed, you will receive a copy of the signed document along with the option to download an Audit trail. The Audit trail can be used as evidence in legal proceedings.</p> 
+        </div> 
+       </div> 
+       <div class="guide__title">
+         Tech concepts 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Password-protected files</h3> 
+         <p>If you process a password-protected file, we will ask you to help us open it. Once it has been opened and processed, we commit to not storing this password on our servers.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Rotating files</h3> 
+         <p>You can rotate your files by hovering the mouse over a file and clicking the () icon. But if you want to rotate more than 10 files at once, you can do so automatically in the pop-up window that will appear. Before you can do it, you will have to render all the pages to rotate them in the same direction.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>JPG to PDF rotation</h3> 
+         <p>Rotating an image in a PDF document only affects the image. Afterwards, you will be able to choose the page orientation (vertical or horizontal) with the newly rotated image.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Organizing files</h3> 
+         <p>Files can be organized in different ways. Drag and drop them however like; you can also arrange them alphabetically by clicking the (<span class="icon icon--order"></span>) icon; and you also have the option of arranging them in inverse alphabetical order clicking the (<span class="icon icon--orderinverse"></span>) icon.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Compressing files</h3> 
+         <p>After processing your files, you will see the original file size and by what percentage they've been reduced. In the case of PDF files that are already optimized, we won't be able to compress them any further.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img" id="uploading"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Uploading and processing</h3> 
+         <p>The uploading and processing time for files will depend on your Internet connection and on the size of the files you have selected. If the browser closes while your files are being processed, you can verify their processing status in the 'My Account' menu, in the 'Last files processed' section.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item" id="download"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Downloading</h3> 
+         <p>The output files will be deleted from our servers after a period of time, depending on your user type. You can also save it straight back to the cloud, on your <a href="#cloud">Google Drive or Dropbox</a> accounts. You can cancel the validity of the download link whenever you want.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item" id="cloud"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Working from the cloud</h3> 
+         <p>You don't need to have the files you want to process stored on your <a href="#select">device</a>. If you have a <a href="#cloud">Google Drive or Dropbox</a> Account, you can download them straight to our page. Once your files have been processed, you can save them back to the cloud. To process cloud-stored files, you'll need to enter the password of your cloud account the first time you use this feature. Your passwords won't be stored in our system. This is feature is especially useful when working from a mobile <a href="#select">device</a> or tablet.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item" id="select"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content" id="upload"> 
+         <h3>Select files to upload</h3> 
+         <p>To select files from your computer, you can do it by hitting on the 'Select images' button. If you want to select more than one file at the same time, hold the 'Ctrl' key while clicking on the files. If the files are in consecutive order, click on the first and the last, while holding on the 'Shift' key You can also drag and drop them straight to our canvas.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Minimum requirements</h3> 
+         <p>We recommend using our tools from the following browsers: Chrome, Firefox, Explorer +10 and Safari. When working from Explorer version 8 and 9, the rendering option for document pages will be disabled. iLovePDF needs to work with Javascript enabled.</p> 
+        </div> 
+       </div> 
+       <div class="guide__item" id="issues"> 
+        <div class="guide__item__img"> 
+        </div> 
+        <div class="guide__item__content"> 
+         <h3>Technical issues</h3> 
+         <p>This new version of iLovePDF has been designed to be much easier to work with, and we have tried to tackle any technical issue. However, if you ever face any problem, do not hesitate to reach out. If the file does not contain confidential material, attach it to your e-mail so we can solve the problem faster. We will do our everything on our hands to come up with a solution.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footer-main"> 
+   <div class="container"> 
+    <div class="d-flex justify-content-between flex-wrap"> 
+     <div class="col-md-3 col-sm-6 col-xs-12"> 
+      <div class="footer-main__title">
+       iLovePDF
+      </div> 
+      <ul class="footer-main__nav"> 
+       <li> <a href="/">Home</a> </li> 
+       <li> <a href="/pricing">Pricing</a> </li> 
+       <li> <a href="/help/security">Security</a> </li> 
+       <li> <a href="/help/documentation">Tools</a> </li> 
+       <li><a href="/help/faq">FAQ</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col-md-3 col-sm-6 col-xs-12"> 
+      <div class="footer-main__title">
+       Product
+      </div> 
+      <ul class="footer-main__nav"> 
+       <li> <a href="/desktop">iLovePDF Desktop</a> </li> 
+       <li> <a href="/mobile">iLovePDF Mobile</a> </li> <!--<li><a href="https://signature.ilovepdf.com">iLovePDF Signature</a></li>--> 
+       <li><a href="https://developer.ilovepdf.com" target="_blank" rel="noopener">Developers</a></li> 
+       <li> <a href="/features">Features</a> </li>
+       <li> <a href="https://www.iloveimg.com/" target="_blank">iloveimg.com</a></li> 
+      </ul> 
+     </div> 
+     <div class="col-md-3 col-sm-6 mt-md-0 mt-sm-5 col-xs-12"> 
+      <div class="footer-main__title">
+       Solutions
+      </div> 
+      <ul class="footer-main__nav"> 
+       <li> <a href="/business">Business</a> </li> 
+       <li> <a href="/education">Education</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col-md-3 col-sm-6 mt-md-0 mt-sm-5 col-xs-12"> 
+      <div class="footer-main__title">
+       Company
+      </div> 
+      <ul class="footer-main__nav"> 
+       <li> <a href="/help/about">Our Story</a> </li> 
+       <li> <a href="/blog">Blog</a> </li> 
+       <li> <a href="/press">Press</a> </li> 
+       <li> <a href="/help/legal">Legal &amp; Privacy</a> </li> 
+       <li> <a href="/contact">Contact</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <ul class="app__store"> <!--<li><a href="" rel="noopener" target="_blank" title="Microsoft Store"><img
+                        src="/img/logos/microsoft_store.svg"/></a></li>--> 
+     <li><a href="https://play.google.com/store/apps/details?id=com.ilovepdf.www" rel="noopener" target="_blank" title="Google Play"><img src="/img/logos/google_play.svg" alt="Google Play"></a></li> 
+     <li><a href="https://itunes.apple.com/es/app/ilovepdf/id1207332399?mt=8" rel="noopener" target="_blank" title="App Store"><img src="/img/logos/app_store.svg" alt="App Store"></a></li> 
+    </ul> 
+    <div class="separator"></div> 
+    <div class="row"> 
+     <div class="col-md-4"> 
+      <div class="footer-big__lang"> <span class="lang__current"> <i class="ico ico--world"></i> English <i class="ico ico--down"></i> </span> 
+       <ul class="lang__menu"> 
+        <li><a href="/">
+          <svg aria-hidden="true" width="12" height="12" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
+           <path fill="currentColor" d="M435.848 83.466L172.804 346.51l-96.652-96.652c-4.686-4.686-12.284-4.686-16.971 0l-28.284 28.284c-4.686 4.686-4.686 12.284 0 16.971l133.421 133.421c4.686 4.686 12.284 4.686 16.971 0l299.813-299.813c4.686-4.686 4.686-12.284 0-16.971l-28.284-28.284c-4.686-4.686-12.284-4.686-16.97 0z" class=""></path>
+          </svg> English</a></li> 
+        <li><a href="/es"> Español</a></li> 
+        <li><a href="/fr"> Français</a></li> 
+        <li><a href="/de"> Deutsch</a></li> 
+        <li><a href="/it"> Italiano</a></li> 
+        <li><a href="/pt"> Português</a></li> 
+        <li><a href="/ja"> 日本語</a></li> 
+        <li><a href="/ru"> Pусский</a></li> 
+        <li><a href="/ko"> 한국어</a></li> 
+        <li><a href="/zh-cn"> 中文 (简体)</a></li> 
+        <li><a href="/zh-tw"> 中文 (繁體)</a></li> 
+        <li><a href="/ar"> العربية</a></li> 
+        <li><a href="/bg"> Български</a></li> 
+        <li><a href="/ca"> Català</a></li> 
+        <li><a href="/nl"> Nederlands</a></li> 
+        <li><a href="/el"> Ελληνικά</a></li> 
+        <li><a href="/hi"> हिन्दी</a></li> 
+        <li><a href="/id"> Bahasa Indonesia</a></li> 
+        <li><a href="/ms"> Bahasa Melayu</a></li> 
+        <li><a href="/pl"> Polski</a></li> 
+        <li><a href="/sv"> Svenska</a></li> 
+        <li><a href="/th"> ภาษาไทย</a></li> 
+        <li><a href="/tr"> Türkçe</a></li> 
+        <li><a href="/uk"> Українська</a></li> 
+        <li><a href="/vi"> Tiếng Việt</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="col-md-8"> 
+      <div class="footer-main__info"> 
+       <div class="slogan"> 
+        <p>© iLovePDF 2025 ® - Your PDF Editor</p> 
+       </div> 
+       <div class="social"> <a class="social__item social__item--twitter" href="https://twitter.com/ilovepdf_com" rel="noopener" target="_blank" title="Follow us on Twitter!"></a> <a class="social__item social__item--facebook" href="https://www.facebook.com/ilovepdfcom-238648522858564/" rel="noopener" target="_blank" title="Like us on Facebook!"></a> <a class="social__item social__item--linkedin" href="https://www.linkedin.com/company/ilovepdf/" rel="noopener" target="_blank" title="LinkedIn - ilovepdf"></a> <a class="social__item social__item--instagram" href="https://www.instagram.com/ilovepdf_official/" rel="noopener" target="_blank" title="Instagram - ilovepdf_official"></a> <a class="social__item social__item--tiktok" href="https://www.tiktok.com/@ilovepdf_official" rel="noopener" target="_blank" title="TikTok - ilovepdf_official"></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="network" class="network"> <i class="ico ico--network"></i> 
+   <div class="network__text">
+     Woops! Something is wrong with your Internet connection... 
+   </div> 
+  </div> 
+  <script>
+        var siteData = {
+        csrfParam: '_csrf-ilovepdf',
+        csrfToken: 'NebE1NktpufC5gbG1-tsrYZC20CxfiFvfutD_4-wZSlhovO-jFvFirXWapOTjEHC4g2zFMQWVw0Y3TOnvN1VTw=='
+    };
+        var lang = 'en-US';
+    var brand = 'iLovePDF';
+    var brand_ref = 'ilovepdf';
+            var nds = {
+        'ck': 0,
+        'content': '<p>We hope you like it and find it easier to use.<br>If you run into any issues, please <a href=\"/contact\">let us know</a>.<br>We can fix any problem if we know about it.</p>',
+        'title': '<span style="color:#1D9D58">Welcome to the newly designed iLovePDF</span>'
+    };
+    </script> 
+  <script src="/dist/js/web.19b357b.js" async></script> 
+  <script src="/dist/js/pages.19b357b.js" async></script> 
+ </body>
+</html>
